@@ -2,7 +2,7 @@
 
 Bienvenido al manual de usuario de **IngePresupuestos**, el software de presupuestos de obra multiplataforma, offline y de formato abierto.
 
-Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provecho: desde instalarlo y crear tu primer proyecto, hasta importar tus presupuestos de S10, Delphin o PowerCost, elaborar análisis de costos unitarios, programar la obra con un Gantt y generar tus reportes.
+Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provecho: desde instalarlo y crear tu primer proyecto, hasta importar tus presupuestos de S10, Delphin o PowerCost, elaborar análisis de costos unitarios, programar la obra con un Gantt, **controlar la ejecución de la obra** y generar tus reportes.
 
 !!! tip "¿Primera vez con IngePresupuestos?"
     Empieza por **[Instalación](primeros-pasos/instalacion.md)** y luego **[Tu primer proyecto](primeros-pasos/primer-proyecto.md)**.
@@ -31,9 +31,9 @@ Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provech
 
     ---
 
-    Partidas, análisis de costos unitarios, insumos, metrados y pie de presupuesto.
+    Partidas (con IA), análisis de costos unitarios, insumos, metrados y pie de presupuesto.
 
-    *(Próximamente en este manual)*
+    [:octicons-arrow-right-24: Elaborar](elaborar/index.md)
 
 -   :material-chart-gantt: **Cronograma y reportes**
 
@@ -41,7 +41,15 @@ Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provech
 
     Diagrama de Gantt, curva S, fórmula polinómica y el Centro de Reportes.
 
-    *(Próximamente en este manual)*
+    [:octicons-arrow-right-24: Programar y reportar](cronograma/index.md)
+
+-   :material-progress-check: **Control de obra**
+
+    ---
+
+    Requerimientos, almacén, cuaderno, valorizaciones y curva S real de la ejecución.
+
+    [:octicons-arrow-right-24: Controlar la obra](control-obra/index.md)
 
 </div>
 

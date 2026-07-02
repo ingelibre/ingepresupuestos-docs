@@ -57,9 +57,14 @@ Así tienes IA **gratis, sin clave y sin conexión a internet**. La calidad de l
 
 **Por proyecto:**
 
+- **[Sugerir las partidas](elaborar/sugerir-partidas.md)** del presupuesto a partir del nombre y unas notas.
 - **Validar el proyecto** (te da un semáforo 🔴/🟡/🟢 con observaciones).
 - Redactar la **memoria descriptiva**.
 - Conversar sobre el conjunto del presupuesto.
+
+**En la obra:**
+
+- Redactar los **Términos de Referencia** de los [requerimientos](control-obra/requerimientos.md).
 
 !!! note "Tus datos"
     Las consultas a Tuxia se envían al proveedor de IA que tú configures con tu clave. Si prefieres no enviar nada a la nube, usa **Ollama** en local.

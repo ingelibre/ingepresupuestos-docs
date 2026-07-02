@@ -84,6 +84,8 @@ nav:
       - Resumen: elaborar/index.md
       - Estados del proyecto: elaborar/estados.md
       - Partidas y subpresupuestos: elaborar/partidas.md
+      - Sugerir partidas con IA: elaborar/sugerir-partidas.md
+      - Plantillas de estructura: elaborar/plantillas.md
       - Análisis de Costos Unitarios: elaborar/acu.md
       - Insumos: elaborar/insumos.md
       - Metrados: elaborar/metrados.md
@@ -98,6 +100,13 @@ nav:
       - Adquisición de insumos: cronograma/adquisiciones.md
       - Curva S: cronograma/curva-s.md
       - Exportar a MS Project: cronograma/ms-project.md
+  - Control de obra:
+      - Resumen: control-obra/index.md
+      - Requerimientos: control-obra/requerimientos.md
+      - Almacén (kárdex): control-obra/almacen.md
+      - Cuaderno de obra: control-obra/cuaderno.md
+      - Valorizaciones: control-obra/valorizaciones.md
+      - Curva S real: control-obra/curva-s.md
   - Fórmula polinómica: formula-polinomica.md
   - Reportes:
       - Centro de Reportes: reportes/index.md

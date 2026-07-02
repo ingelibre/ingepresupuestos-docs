@@ -12,6 +12,14 @@ Esta sección cubre todo el trabajo dentro de un proyecto: armar la estructura d
 
     La estructura del presupuesto: componentes, títulos y partidas.
 
+-   :material-robot-happy: **[Sugerir partidas con IA](sugerir-partidas.md)**
+
+    La IA arma la estructura del presupuesto desde el nombre del proyecto.
+
+-   :material-content-copy: **[Plantillas de estructura](plantillas.md)**
+
+    Guarda un presupuesto y reutilízalo en otras obras.
+
 -   :material-calculator-variant: **[Análisis de Costos Unitarios](acu.md)**
 
     Mano de obra, materiales y equipo de cada partida.
