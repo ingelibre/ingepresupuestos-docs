@@ -1,35 +1,34 @@
-# Licencias y precios
+# Software libre
 
-IngePresupuestos es **gratis para usar**. Solo pagas si quieres exportar tus reportes en **formatos editables**.
+IngePresupuestos es **software libre y gratuito**, distribuido bajo la licencia **GPL-3.0-or-later**. Puedes usarlo, estudiarlo, modificarlo y compartirlo — sin pagar nada y sin límites.
 
-## Qué es gratis
+## Todo incluido, sin candados
+
+Todas las funciones están disponibles para todos:
 
 - La **app completa**, sin límite de proyectos.
-- **Todos los reportes en PDF.**
-- Gantt, cronograma valorizado, adquisiciones y Curva S.
+- **Todos los reportes**: PDF, Excel, Word, ODS, ODT y MS Project.
+- Presupuesto, ACU, metrados, Gantt, Curva S, valorizado y adquisiciones.
+- **Control de Obra**: requerimientos, almacén, cuaderno, valorizaciones y curva S real.
 - Todos los **importadores** (S10, Delphin, PowerCost, Excel, IFC).
 - **Tuxia** (IA) con tu propia clave.
-- Sin tarjeta, sin registro.
 
-## Qué requiere licencia
+No hay planes de pago, ni periodo de prueba, ni activación: simplemente descárgalo y úsalo.
 
-La exportación a **formatos editables** —Excel, Word, ODS, ODT y MS Project— está incluida en las licencias de pago.
+## Código abierto
 
-| Plan | Precio | Incluye |
-|------|--------|---------|
-| **Gratis** | $ 0 | App completa + todos los PDF. |
-| **Anual** | $ 30 / año | Exportables (Excel, Word, ODS, ODT, MS Project) por 12 meses. |
-| **Perpetua** | $ 150 (único pago) | Exportables para siempre + 2 años de actualizaciones. |
+El código fuente está publicado en GitHub, bajo licencia GPL-3.0:
 
-Ambos planes de pago son para **1 PC** (incluye dualboot Windows/Linux en la misma máquina) y traen soporte directo del autor.
+- **[github.com/tuxiasumari/ingepresupuestos](https://github.com/tuxiasumari/ingepresupuestos)** — la aplicación.
+- **[github.com/tuxiasumari/ingeconverter](https://github.com/tuxiasumari/ingeconverter)** — el conversor de bases de S10.
 
-## Periodo de prueba
+Eres libre de estudiarlo, adaptarlo y compartirlo. Las obras derivadas deben permanecer libres bajo la misma licencia.
 
-Puedes probar las funciones de pago durante un periodo de prueba, sin tarjeta. Al vencer, la app sigue funcionando completa con los PDF gratuitos.
+## Apoyar el proyecto
 
-## Comprar
+IngePresupuestos es gratis y libre. Si te resulta útil en tu trabajo, puedes apoyarlo:
 
-Escríbenos por **[WhatsApp (+51 998 839 090)](https://wa.me/51998839090)** o desde **[ingepresupuestos.com](https://ingepresupuestos.com/#precios)**.
+- 💛 Con una **donación** desde la app (**Acerca de → Apoyar el proyecto**).
+- ⭐ Con una **estrella** en GitHub, y compartiéndolo con colegas.
 
-!!! info "La licencia se ata a tu PC"
-    La licencia se vincula al **identificador de tu máquina** (Machine ID), que puedes ver en **Configuración → Acerca de**. Es estable aunque tengas Windows y Linux en la misma PC.
+¡Gracias por usar y difundir el proyecto!

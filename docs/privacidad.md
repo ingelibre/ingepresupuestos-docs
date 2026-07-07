@@ -22,8 +22,8 @@ Tus proyectos, partidas, análisis de costos, precios, metrados, cronogramas, re
 
 **Esta información no se envía a nuestros servidores.** No tenemos acceso a tus presupuestos.
 
-### Identificador del equipo (licencias)
-Para vincular una licencia a un equipo, la aplicación calcula un **identificador de máquina**: un valor derivado (con una función hash de un solo sentido) de las direcciones MAC de tus adaptadores de red. Se calcula y se guarda **localmente**. No revela tu identidad ni tu ubicación.
+### Identificador del equipo
+La aplicación calcula un **identificador de máquina**: un valor derivado (con una función hash de un solo sentido) de las direcciones MAC de tus adaptadores de red. Se calcula y se guarda **localmente**; no se transmite ni revela tu identidad o ubicación.
 
 ## Conexiones a internet
 

@@ -17,7 +17,7 @@ Cada reporte se puede exportar a varios formatos, manteniendo el **mismo diseño
 IngePresupuestos genera los **PDF, Excel y Word por sí solo**, sin necesidad de tener Microsoft Office ni MS Project instalados. Solo la exportación a **ODS / ODT** se apoya en LibreOffice, si lo tienes.
 
 !!! info "Los PDF son gratis siempre"
-    Generar reportes en **PDF** es gratuito y sin límites. La exportación a formatos **editables** (Excel, Word, ODS, ODT) está incluida en las licencias de pago. Ver [Licencias y precios](../licencias.md).
+    Todos los reportes son gratuitos y sin límites: PDF y también los formatos **editables** (Excel, Word, ODS, ODT). IngePresupuestos es software libre. Ver [Software libre](../licencias.md).
 
 ## Mismo diseño en todos
 

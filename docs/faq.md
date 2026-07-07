@@ -28,9 +28,9 @@ Descarga el `.exe`, doble clic, sigue el asistente. Si sale «Windows protegió 
 
 Descarga el `.AppImage`, dale permisos de ejecución (`chmod +x`) y haz doble clic. No requiere instalación.
 
-## ¿Los reportes en PDF son gratis?
+## ¿Los reportes son gratis?
 
-Sí, siempre y sin límites. Solo la exportación a formatos **editables** (Excel, Word, ODS, ODT) requiere licencia de pago. Ver [Licencias y precios](licencias.md).
+Sí, todos y sin límites. IngePresupuestos es **software libre**: PDF, Excel, Word, ODS, ODT y MS Project están incluidos, gratis. Ver [Software libre](licencias.md).
 
 ## ¿Necesito una clave de API para la IA?
 
