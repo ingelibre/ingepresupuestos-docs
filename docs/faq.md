@@ -30,7 +30,7 @@ Descarga el `.AppImage`, dale permisos de ejecución (`chmod +x`) y haz doble cl
 
 ## ¿Los reportes son gratis?
 
-Sí, todos y sin límites. IngePresupuestos es **software libre**: PDF, Excel, Word, ODS, ODT y MS Project están incluidos, gratis. Ver [Software libre](licencias.md).
+Los **13 reportes del presupuesto en PDF** son gratis, siempre y sin límites. La exportación **editable** (Excel, Word, ODS, ODT, MS Project) y los **reportes de Control de Obra** se activan con licencia, con 30 días de prueba completa al instalar. Ver [Licencia](licencias.md).
 
 ## ¿Necesito una clave de API para la IA?
 

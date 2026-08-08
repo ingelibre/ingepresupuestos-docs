@@ -1,34 +1,61 @@
-# Software libre
+# Licencia
 
-IngePresupuestos es **software libre y gratuito**, distribuido bajo la licencia **GPL-3.0-or-later**. Puedes usarlo, estudiarlo, modificarlo y compartirlo — sin pagar nada y sin límites.
+IngePresupuestos es **gratis para lo esencial, sin límite de tiempo**. La
+licencia activa las funciones premium: la **exportación editable** y los
+**reportes de Control de Obra**.
 
-## Todo incluido, sin candados
+## Qué es gratis y qué requiere licencia
 
-Todas las funciones están disponibles para todos:
+| Función | Gratis | Con licencia |
+|---|:---:|:---:|
+| Presupuestos, ACU y sub-presupuestos sin límite | ✓ | ✓ |
+| Cronograma Gantt (CPM), valorizado y Curva S | ✓ | ✓ |
+| Control de Obra: registrar almacén, cuaderno, valorizaciones | ✓ | ✓ |
+| Metrados (incluido acero) y fórmula polinómica | ✓ | ✓ |
+| Importadores: S10, PowerCost, Delphin, Excel, IFC | ✓ | ✓ |
+| Los 13 reportes del presupuesto en **PDF** | ✓ | ✓ |
+| Tuxia (IA) con tu propia clave | ✓ | ✓ |
+| Exportar **Excel · Word · ODS · ODT · MS Project** | 30 días de prueba | ✓ |
+| **Reportes de Control de Obra** (todos los formatos) | 30 días de prueba | ✓ |
 
-- La **app completa**, sin límite de proyectos.
-- **Todos los reportes**: PDF, Excel, Word, ODS, ODT y MS Project.
-- Presupuesto, ACU, metrados, Gantt, Curva S, valorizado y adquisiciones.
-- **Control de Obra**: requerimientos, almacén, cuaderno, valorizaciones y curva S real.
-- Todos los **importadores** (S10, Delphin, PowerCost, Excel, IFC).
-- **Tuxia** (IA) con tu propia clave.
+Al instalar, tienes **30 días de prueba completa** — sin registro, sin
+tarjeta, sin conexión. Al terminar, la app sigue funcionando con todo lo de
+la columna «Gratis», para siempre.
 
-No hay planes de pago, ni periodo de prueba, ni activación: simplemente descárgalo y úsalo.
+## Tipos de licencia
 
-## Código abierto
+- **Anual** — 1 computadora, funciones premium y actualizaciones durante 1 año.
+- **Perpetua** — 1 computadora, funciones premium **para siempre**, con
+  2 años de actualizaciones incluidas. Pasados los 2 años tu programa sigue
+  funcionando igual; solo las versiones nuevas requieren renovar el
+  mantenimiento.
 
-El código fuente está publicado en GitHub, bajo licencia GPL-3.0:
+Precios y compra: **[ingepresupuestos.com/licencia](https://ingepresupuestos.com/licencia)**.
+Para varias computadoras (empresas, estudios, entidades) escríbenos por
+WhatsApp y cotizamos un paquete con comprobante.
 
-- **[github.com/tuxiasumari/ingepresupuestos](https://github.com/tuxiasumari/ingepresupuestos)** — la aplicación.
-- **[github.com/tuxiasumari/ingeconverter](https://github.com/tuxiasumari/ingeconverter)** — el conversor de bases de S10.
+## Cómo activar tu licencia
 
-Eres libre de estudiarlo, adaptarlo y compartirlo. Las obras derivadas deben permanecer libres bajo la misma licencia.
+1. Abre **Acerca de → Activar licencia…**. Ahí verás el **ID de tu máquina**
+   (un código corto tipo `a1b2-c3d4-e5f6-a7b8`) con un botón **Copiar**.
+2. Envíanos ese ID por WhatsApp al comprar. Recibirás tu **clave de
+   licencia**, normalmente el mismo día.
+3. Pega la clave en el mismo diálogo (o carga el archivo `.lic`) y pulsa
+   **Activar**.
 
-## Apoyar el proyecto
+!!! note "La activación no usa internet"
+    La clave se verifica dentro de tu computadora mediante firma
+    criptográfica. No hay servidores de activación, ni cuentas, ni envío de
+    datos: tus proyectos nunca salen de tu equipo.
 
-IngePresupuestos es gratis y libre. Si te resulta útil en tu trabajo, puedes apoyarlo:
+**¿Cambiaste de computadora?** La clave va atada a una máquina, pero la
+reemisión es **gratuita**: envíanos el ID de la máquina nueva por WhatsApp y
+te generamos la clave actualizada.
 
-- 💛 Con una **donación** desde la app (**Acerca de → Apoyar el proyecto**).
-- ⭐ Con una **estrella** en GitHub, y compartiéndolo con colegas.
+## Versiones anteriores (2.8.x)
 
-¡Gracias por usar y difundir el proyecto!
+Las versiones **2.8.8 y anteriores** se publicaron como software libre bajo
+licencia **GPL-3.0-or-later** y conservan esa licencia: quien las tiene puede
+seguir usándolas libremente. Desde la **2.9.0** IngePresupuestos es software
+propietario, con el modelo gratis + licencia descrito en esta página. Si
+tienes una 2.8.x y quieres su código fuente, escríbenos.
