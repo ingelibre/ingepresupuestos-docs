@@ -16,8 +16,8 @@ Cada reporte se puede exportar a varios formatos, manteniendo el **mismo diseño
 
 IngePresupuestos genera los **PDF, Excel y Word por sí solo**, sin necesidad de tener Microsoft Office ni MS Project instalados. Solo la exportación a **ODS / ODT** se apoya en LibreOffice, si lo tienes.
 
-!!! info "Los PDF del presupuesto son gratis siempre"
-    Los reportes del presupuesto en **PDF** son gratuitos y sin límites. Los formatos **editables** (Excel, Word, ODS, ODT, MS Project) y los reportes de **Control de Obra** se activan con licencia — con 30 días de prueba completa al instalar. Ver [Licencia](../licencias.md).
+!!! info "Todos los formatos, sin restricciones"
+    Los 13 reportes y **todos** los formatos de salida —PDF, Excel, Word, ODS, ODT y MS Project— están disponibles sin límites, igual que los reportes de **Control de Obra**. IngePresupuestos es [software libre](../licencias.md): no hay funciones que activar.
 
 ## Mismo diseño en todos
 

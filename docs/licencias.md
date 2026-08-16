@@ -1,61 +1,86 @@
 # Licencia
 
-IngePresupuestos es **gratis para lo esencial, sin límite de tiempo**. La
-licencia activa las funciones premium: la **exportación editable** y los
-**reportes de Control de Obra**.
+IngePresupuestos es **software libre**. Se distribuye bajo la **GNU General
+Public License, versión 3 o posterior** (GPL-3.0-or-later).
 
-## Qué es gratis y qué requiere licencia
+La aplicación **completa** es gratuita: no hay funciones bloqueadas, ni
+período de prueba, ni claves de activación, ni registro de usuario. Tampoco
+hay una edición «pro» distinta de la que descargas.
 
-| Función | Gratis | Con licencia |
-|---|:---:|:---:|
-| Presupuestos, ACU y sub-presupuestos sin límite | ✓ | ✓ |
-| Cronograma Gantt (CPM), valorizado y Curva S | ✓ | ✓ |
-| Control de Obra: registrar almacén, cuaderno, valorizaciones | ✓ | ✓ |
-| Metrados (incluido acero) y fórmula polinómica | ✓ | ✓ |
-| Importadores: S10, PowerCost, Delphin, Excel, IFC | ✓ | ✓ |
-| Los 13 reportes del presupuesto en **PDF** | ✓ | ✓ |
-| Tuxia (IA) con tu propia clave | ✓ | ✓ |
-| Exportar **Excel · Word · ODS · ODT · MS Project** | 30 días de prueba | ✓ |
-| **Reportes de Control de Obra** (todos los formatos) | 30 días de prueba | ✓ |
+## Tus cuatro libertades
 
-Al instalar, tienes **30 días de prueba completa** — sin registro, sin
-tarjeta, sin conexión. Al terminar, la app sigue funcionando con todo lo de
-la columna «Gratis», para siempre.
+La GPL te garantiza, sin pedir nada a cambio:
 
-## Tipos de licencia
+- **Usar** el programa con cualquier propósito, incluido el comercial: en tu
+  estudio, en tu empresa, en una entidad pública o para consultorías.
+- **Estudiar** cómo funciona y adaptarlo a tus necesidades. El código fuente
+  está publicado.
+- **Redistribuir** copias para ayudar a otras personas.
+- **Mejorar** el programa y publicar tus mejoras, de modo que toda la
+  comunidad se beneficie.
 
-- **Anual** — 1 computadora, funciones premium y actualizaciones durante 1 año.
-- **Perpetua** — 1 computadora, funciones premium **para siempre**, con
-  2 años de actualizaciones incluidas. Pasados los 2 años tu programa sigue
-  funcionando igual; solo las versiones nuevas requieren renovar el
-  mantenimiento.
+La única condición es el **copyleft**: si distribuyes el programa o una obra
+derivada, debes hacerlo también bajo la GPL v3 o posterior, conservando los
+avisos de copyright y de licencia, y dando acceso al código fuente.
 
-Precios y compra: **[ingepresupuestos.com/licencia](https://ingepresupuestos.com/licencia)**.
-Para varias computadoras (empresas, estudios, entidades) escríbenos por
-WhatsApp y cotizamos un paquete con comprobante.
+## Todo incluido
 
-## Cómo activar tu licencia
+| Función | Disponible |
+|---|:---:|
+| Presupuestos, ACU y sub-presupuestos sin límite | ✓ |
+| Cronograma Gantt (CPM), valorizado y Curva S | ✓ |
+| Control de Obra: almacén, cuaderno, valorizaciones y sus reportes | ✓ |
+| Metrados (incluido acero) y fórmula polinómica | ✓ |
+| Importadores: S10, PowerCost, Delphin, Excel, IFC | ✓ |
+| Los 13 reportes en **PDF** | ✓ |
+| Exportación editable: **Excel · Word · ODS · ODT · MS Project** | ✓ |
+| Tuxia (IA) con tu propia clave | ✓ |
 
-1. Abre **Acerca de → Activar licencia…**. Ahí verás el **ID de tu máquina**
-   (un código corto tipo `a1b2-c3d4-e5f6-a7b8`) con un botón **Copiar**.
-2. Envíanos ese ID por WhatsApp al comprar. Recibirás tu **clave de
-   licencia**, normalmente el mismo día.
-3. Pega la clave en el mismo diálogo (o carga el archivo `.lic`) y pulsa
-   **Activar**.
+## Código fuente
 
-!!! note "La activación no usa internet"
-    La clave se verifica dentro de tu computadora mediante firma
-    criptográfica. No hay servidores de activación, ni cuentas, ni envío de
-    datos: tus proyectos nunca salen de tu equipo.
+Vive en **[github.com/ingelibre/ingepresupuestos](https://github.com/ingelibre/ingepresupuestos)**.
+Ahí puedes leerlo, reportar un error, proponer una mejora o compilar el
+programa tú mismo.
 
-**¿Cambiaste de computadora?** La clave va atada a una máquina, pero la
-reemisión es **gratuita**: envíanos el ID de la máquina nueva por WhatsApp y
-te generamos la clave actualizada.
+Para que una contribución pueda fusionarse hace falta firmar el **CLA** del
+proyecto (está en el repositorio): así el copyright permanece en una sola
+mano, que es lo que mantiene la libertad de relicenciar en el futuro.
 
-## Versiones anteriores (2.8.x)
+## Apoyo voluntario
 
-Las versiones **2.8.8 y anteriores** se publicaron como software libre bajo
-licencia **GPL-3.0-or-later** y conservan esa licencia: quien las tiene puede
-seguir usándolas libremente. Desde la **2.9.0** IngePresupuestos es software
-propietario, con el modelo gratis + licencia descrito en esta página. Si
-tienes una 2.8.x y quieres su código fuente, escríbenos.
+El programa lo desarrolla una sola persona, en noches y fines de semana. Si
+te ahorra horas de trabajo, puedes **[apoyar el
+proyecto](https://ingepresupuestos.com/apoyar)** con Yape o Plin desde Perú,
+o con Liberapay desde el extranjero.
+
+El aporte es **voluntario y no desbloquea nada**, porque no hay nada
+bloqueado. Quien no aporte usa exactamente el mismo programa.
+
+## Historial de licencia
+
+- Hasta la **2.8.8**: software libre GPL-3.0-or-later.
+- **2.9.0**: se publicó como software propietario, con un modelo de funciones
+  gratuitas más licencia de pago.
+- Desde la **3.0**: software libre GPL-3.0-or-later otra vez, y de forma
+  definitiva. El modelo de licencias de la 2.9.0 quedó sin efecto y las
+  claves dejaron de ser necesarias: al actualizar, todas las funciones
+  quedan disponibles.
+
+## Sin garantía
+
+El programa se entrega **tal cual**, sin garantía de ningún tipo, conforme a
+las secciones 15 y 16 de la GNU GPL v3.
+
+!!! warning "Verifica siempre tus cálculos"
+    Es responsabilidad de quien lo usa comprobar la exactitud de los
+    resultados antes de emplearlos en obras, licitaciones o documentos
+    oficiales. El programa es una herramienta de apoyo, no un sustituto del
+    criterio profesional.
+
+El texto completo y legalmente vinculante de la licencia está en
+**[gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)**
+y en el archivo `LICENSE` que acompaña al programa.
+
+---
+
+Copyright © 2026 Ing. Marco Sumari Tellez

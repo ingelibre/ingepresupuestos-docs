@@ -6,16 +6,24 @@ Descarga siempre la última versión desde **[ingepresupuestos.com](https://inge
 
 ## Windows
 
-1. Descarga el instalador **`.exe`** (o la versión portable `.zip` si prefieres no instalar).
-2. Haz doble clic en el instalador y sigue el asistente.
-3. Si aparece la pantalla azul **«Windows protegió tu PC»**, haz clic en **Más información → Ejecutar de todas formas**.
+=== "Instalador .exe"
 
-    !!! note "¿Por qué sale ese aviso?"
-        Es la advertencia normal de SmartScreen para programas que aún no tienen una firma de pago. IngePresupuestos es seguro; el aviso desaparecerá cuando incorporemos la firma comercial.
+    1. Descarga el instalador **`.exe`**.
+    2. Haz doble clic y sigue el asistente.
+    3. Si aparece la pantalla azul **«Windows protegió tu PC»**, haz clic en **Más información → Ejecutar de todas formas**.
 
-4. Al terminar, busca **IngePresupuestos** en el menú Inicio y ábrelo.
+        !!! note "¿Por qué sale ese aviso?"
+            Es la advertencia normal de SmartScreen para programas que todavía no llevan firma digital. IngePresupuestos es seguro; el aviso desaparecerá cuando el programa esté firmado.
 
-La versión **portable** (`.zip`) no se instala: descomprímela y ejecuta `IngePresupuestos.exe` desde la carpeta.
+    4. Al terminar, busca **IngePresupuestos** en el menú Inicio y ábrelo.
+
+=== "Microsoft Store"
+
+    1. Abre la ficha de **[IngePresupuestos en la Microsoft Store](https://apps.microsoft.com/detail/9PN8FKLP4RH5)**.
+    2. Pulsa **Obtener**.
+
+    Instalado así no aparece el aviso de SmartScreen, y las actualizaciones
+    las gestiona la propia Store.
 
 ## Linux
 
@@ -30,19 +38,23 @@ La versión **portable** (`.zip`) no se instala: descomprímela y ejecuta `IngeP
 
     3. Haz doble clic (o ejecútalo desde la terminal). No requiere instalación.
 
-=== "Portable (.tar.gz)"
+=== "Flatpak"
 
-    1. Descarga el **`.tar.gz`** y descomprímelo:
+    Instala con un comando (o desde el enlace de un clic de la web):
 
-        ```bash
-        tar -xzf ingepresupuestos-linux.tar.gz
-        ```
+    ```bash
+    flatpak install --from https://downloads.ingepresupuestos.com/flatpak/ingepresupuestos.flatpakref
+    ```
 
-    2. Entra a la carpeta y ejecuta el binario `IngePresupuestos`.
+    Es la edición completa —incluye la exportación a ODT y ODS usando el
+    LibreOffice de tu sistema— y se actualiza sola con el resto de tus
+    aplicaciones Flatpak.
 
 ## Actualizaciones
 
 Cuando haya una versión nueva, el programa te avisa automáticamente al abrirlo, con un resumen de las novedades y un botón para descargarla. También puedes revisarlo manualmente en **Configuración → Acerca de → Buscar actualizaciones**.
+
+Si lo instalaste desde la **Microsoft Store** o como **Flatpak**, no verás ese aviso: en esos dos canales las actualizaciones llegan solas.
 
 ## Tus datos
 

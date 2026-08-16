@@ -1,6 +1,6 @@
 # Manual de IngePresupuestos
 
-Bienvenido al manual de usuario de **IngePresupuestos**, el software de presupuestos de obra multiplataforma, offline y de formato abierto.
+Bienvenido al manual de usuario de **IngePresupuestos**, el software libre de presupuestos de obra: multiplataforma, offline y de formato abierto.
 
 Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provecho: desde instalarlo y crear tu primer proyecto, hasta importar tus presupuestos de S10, Delphin o PowerCost, elaborar análisis de costos unitarios, programar la obra con un Gantt, **controlar la ejecución de la obra** y generar tus reportes.
 
@@ -60,3 +60,9 @@ Si algo no queda claro o encuentras un problema, escríbenos:
 - :material-whatsapp: WhatsApp: [+51 998 839 090](https://wa.me/51998839090)
 - :material-email: Correo: [ing.sumari@gmail.com](mailto:ing.sumari@gmail.com)
 - :material-web: Sitio web: [ingepresupuestos.com](https://ingepresupuestos.com)
+- :material-github: Código fuente: [github.com/ingelibre/ingepresupuestos](https://github.com/ingelibre/ingepresupuestos)
+
+!!! info "Software libre"
+    IngePresupuestos es **software libre bajo GPL-3.0**: la aplicación
+    completa, sin funciones bloqueadas ni período de prueba. Ver
+    **[Licencia](licencias.md)**.
