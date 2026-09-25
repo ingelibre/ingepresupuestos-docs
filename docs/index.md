@@ -23,7 +23,7 @@ Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provech
 
     ---
 
-    Trae tus presupuestos desde S10, Delphin, PowerCost, Excel, IFC o una base `.db`.
+    Trae tus presupuestos desde S10, Delphin o PowerCost (también sus Excel), IFC o una base `.db`, y tus precios de insumos desde Excel.
 
     [:octicons-arrow-right-24: Ver importadores](importar/index.md)
 

@@ -1,17 +1,34 @@
 # Importar desde Excel, IFC y `.db`
 
-Además de los formatos nativos, IngePresupuestos importa desde hojas de cálculo, modelos BIM y su propia base de datos.
+Además de los formatos nativos, IngePresupuestos importa precios de insumos desde Excel, cantidades desde modelos BIM y proyectos desde su propia base de datos.
 
 ## Excel (`.xlsx`)
 
-Si tu presupuesto está en Excel —exportado de cualquier software o armado a mano— puedes importarlo.
+!!! warning "No hay una importación genérica de presupuestos desde Excel"
+    IngePresupuestos lee el Excel **de reporte** que generan PowerCost, S10 y Delphin Express (cada uno con su propio formato: ver [PowerCost](powercost.md), [S10](s10.md) y [Delphin](delphin.md)). Un presupuesto armado a mano en Excel, o una hoja con otro formato —por ejemplo un tarifario oficial—, **no se reconoce** como presupuesto: el programa responde «El archivo no contiene partidas reconocibles».
 
-1. **Importar → Excel**.
-2. Selecciona el archivo de **presupuesto** y, si lo tienes, el de **ACU**.
-3. Confirma.
+### Lo que sí puedes importar desde tu Excel: tus precios de insumos
 
-!!! tip "Para que la importación salga bien"
-    El Excel debe tener una tabla con columnas reconocibles: **Ítem, Descripción, Unidad, Metrado, Precio**. IngePresupuestos detecta el encabezado automáticamente. Si tu archivo viene de PowerCost, S10 o Delphin, usa mejor la guía específica de cada uno.
+Si tienes una lista de precios propia (materiales, mano de obra, equipos, o un tarifario oficial de tu país), cárgala en el **Catálogo de Insumos**:
+
+1. **Catálogos → Catálogo de Insumos → Exportar ▾ → A Excel (.xlsx)**. Así obtienes una plantilla con las columnas correctas.
+2. Copia tus datos en esa plantilla, respetando la **primera fila** como cabecera.
+3. **Catálogos → Catálogo de Insumos → Importar ▾ → Desde Excel (.xlsx)**.
+
+| Columna | ¿Obligatoria? | Contenido |
+|---|---|---|
+| **Descripción** | Sí | Nombre del insumo |
+| **Tipo** | Sí | `MO` (mano de obra), `MAT` (material), `EQ` (equipo) o `SC` (subcontrato/servicio) |
+| Código | No | Si ya existe, el insumo se **actualiza**; si falta, se genera uno |
+| Unidad | No | `hh`, `m3`, `kg`, `und`… |
+| Precio | No | Acepta `1234.56` y `1.234,56` |
+| Índice INEI | No | Solo para la fórmula polinómica (Perú) |
+
+!!! tip "La columna Tipo es la que más filas descarta"
+    Una fila sin **Descripción** o con un **Tipo** distinto de `MO`, `MAT`, `EQ` o `SC` se salta. Al terminar, el programa dice cuántas filas creó, cuántas actualizó y cuántas descartó.
+
+!!! note "Moneda"
+    El catálogo de insumos usa la **moneda** elegida en **Configuración → País**. Cambiarla solo cambia el símbolo y los separadores: los importes no se convierten.
 
 ## BIM — modelos IFC (`.ifc`)
 
