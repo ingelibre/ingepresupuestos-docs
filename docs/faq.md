@@ -12,13 +12,13 @@ No. IngePresupuestos genera los **PDF, Excel y Word por sí solo**, sin Microsof
 
 Sí. El archivo `presupuestos.db` es **SQLite puro** — ábrelo con DB Browser, DBeaver, Python o cualquier herramienta. No es formato propietario.
 
-## ¿Puedo importar mis archivos de S10?
+## ¿Puedo importar copias de seguridad `.bak`?
 
-Sí, con **IngeConverter** (incluido gratis) conviertes backups `.S2K`, `.bkf` y `.bak`. También importas Excel exportado de S10. Ver [Importar desde S10](importar/s10.md).
+Sí, con **IngeConverter** (incluido gratis) conviertes copias `.bak`, `.bkf` y `.S2K`. También importas presupuestos exportados a Excel. Ver [Copias de seguridad .bak](importar/s10.md).
 
-## Al importar de PowerCost, ¿por qué cambian los códigos de las partidas?
+## Al importar, ¿por qué cambian los códigos de las partidas?
 
-Porque los códigos de PowerCost son un **estilo de numeración** (numérico, letra, código propio…), no una jerarquía. IngePresupuestos los renumera limpio (01, 01.01…) para que el árbol quede bien anidado. El total y los análisis no cambian. Ver [Importar desde PowerCost](importar/powercost.md).
+Porque muchos códigos de origen son un **estilo de numeración** (numérico, letra, código propio…), no una jerarquía. IngePresupuestos los renumera limpio (01, 01.01…) para que el árbol quede bien anidado. El total y los análisis no cambian. Ver [Archivos .prs y Excel](importar/powercost.md).
 
 ## ¿Cómo se instala en Windows?
 

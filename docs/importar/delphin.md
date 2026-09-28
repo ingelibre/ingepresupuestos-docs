@@ -1,16 +1,16 @@
-# Importar desde Delphin Express
+# Bases .sqlite
 
-IngePresupuestos lee directamente la base nativa **`.sqlite`** de Delphin Express, trayendo el proyecto, la biblioteca de costos y los índices INEI.
+IngePresupuestos lee directamente bases **`.sqlite`** de otros programas de presupuestos, trayendo el proyecto, la biblioteca de costos y los índices INEI.
 
 ## Pasos
 
-1. En IngePresupuestos: **Importar → Delphin Express**.
-2. Selecciona el archivo **`.sqlite`** de Delphin.
+1. En IngePresupuestos: **Importar** y elige el origen de la base `.sqlite`.
+2. Selecciona el archivo **`.sqlite`**.
 3. Si la base contiene varios presupuestos, elige el que quieres importar.
 4. Confirma. El proyecto se crea con sus partidas, ACU e insumos.
 
-!!! info "Sobre el formato `.dprj`"
-    Delphin también guarda archivos `.dprj`, pero ese formato no se puede leer (usa una serialización interna de .NET). Usa siempre el **`.sqlite`**, o exporta a **Excel** desde Delphin e impórtalo como Excel.
+!!! info "Si tu programa guarda otro formato"
+    Algunos programas guardan además archivos en formatos internos que no se pueden leer. Usa siempre la base **`.sqlite`**, o exporta a **Excel** e impórtalo como Excel.
 
 ## Qué se importa
 

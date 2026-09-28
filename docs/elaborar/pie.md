@@ -39,7 +39,7 @@ En ambos casos, el **total del rubro** se muestra arriba, junto al selector, par
 
 ## Plantillas precargadas
 
-Para no empezar de cero, IngePresupuestos trae **plantillas** de gastos generales, supervisión, expediente y liquidación (basadas en estructuras tipo CAPECO). Úsalas con el botón **Cargar plantilla** y ajusta los montos a tu proyecto.
+Para no empezar de cero, IngePresupuestos trae **plantillas** de gastos generales, supervisión, expediente y liquidación. Úsalas con el botón **Cargar plantilla** y ajusta los montos a tu proyecto.
 
 ## Firmas
 

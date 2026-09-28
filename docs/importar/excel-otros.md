@@ -5,7 +5,7 @@ Además de los formatos nativos, IngePresupuestos importa precios de insumos des
 ## Excel (`.xlsx`)
 
 !!! warning "No hay una importación genérica de presupuestos desde Excel"
-    IngePresupuestos lee el Excel **de reporte** que generan PowerCost, S10 y Delphin Express (cada uno con su propio formato: ver [PowerCost](powercost.md), [S10](s10.md) y [Delphin](delphin.md)). Un presupuesto armado a mano en Excel, o una hoja con otro formato —por ejemplo un tarifario oficial—, **no se reconoce** como presupuesto: el programa responde «El archivo no contiene partidas reconocibles».
+    IngePresupuestos lee el Excel **de reporte** (presupuesto + ACU) que exportan los programas de presupuestos (ver [Archivos .prs y Excel](powercost.md)). Un presupuesto armado a mano en Excel, o una hoja con otro formato —por ejemplo un tarifario oficial—, **no se reconoce** como presupuesto: el programa responde «El archivo no contiene partidas reconocibles».
 
 ### Lo que sí puedes importar desde tu Excel: tus precios de insumos
 

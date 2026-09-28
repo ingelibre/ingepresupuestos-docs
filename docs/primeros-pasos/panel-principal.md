@@ -7,7 +7,7 @@ Al abrir IngePresupuestos llegas al **panel principal (dashboard)**: la lista de
 ## Acciones rápidas
 
 - **Nuevo proyecto** — crea un presupuesto desde cero.
-- **Importar** — trae un proyecto desde S10, Delphin, PowerCost, Excel, etc.
+- **Importar** — trae un proyecto desde archivos `.prs`, `.sqlite`, `.bak`, Excel, etc.
 - **Abrir** — haz clic en cualquier proyecto para entrar.
 - **Clic derecho** sobre un proyecto — menú con opciones (duplicar, mover a portafolio, eliminar…).
 

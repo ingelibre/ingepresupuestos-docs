@@ -76,9 +76,9 @@ nav:
       - Tu primer proyecto: primeros-pasos/primer-proyecto.md
   - Importar desde otros programas:
       - Resumen: importar/index.md
-      - PowerCost: importar/powercost.md
-      - S10: importar/s10.md
-      - Delphin Express: importar/delphin.md
+      - Archivos .prs y Excel: importar/powercost.md
+      - Copias .bak / .S2K: importar/s10.md
+      - Bases .sqlite: importar/delphin.md
       - Excel, IFC y .db: importar/excel-otros.md
   - Elaborar el presupuesto:
       - Resumen: elaborar/index.md

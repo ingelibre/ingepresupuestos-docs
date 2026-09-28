@@ -22,7 +22,7 @@ Desde el **[panel principal](panel-principal.md)** puedes crear un proyecto nuev
 4. Pulsa **Crear**. El proyecto se abre listo para empezar a cargar partidas.
 
 !!! tip "¿Ya tienes el presupuesto en otro programa?"
-    No empieces de cero. Usa **[Importar](../importar/index.md)** para traerlo desde S10, Delphin, PowerCost, Excel o una base `.db`.
+    No empieces de cero. Usa **[Importar](../importar/index.md)** para traerlo desde archivos `.prs`, `.sqlite`, `.bak`, Excel o una base `.db`.
 
 ## La vista del proyecto
 

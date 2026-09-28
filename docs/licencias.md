@@ -31,7 +31,7 @@ avisos de copyright y de licencia, y dando acceso al código fuente.
 | Cronograma Gantt (CPM), valorizado y Curva S | ✓ |
 | Control de Obra: almacén, cuaderno, valorizaciones y sus reportes | ✓ |
 | Metrados (incluido acero) y fórmula polinómica | ✓ |
-| Importadores: S10, PowerCost, Delphin, Excel, IFC | ✓ |
+| Importación de `.prs`, `.sqlite`, `.bak`, Excel e IFC | ✓ |
 | Los 13 reportes en **PDF** | ✓ |
 | Exportación editable: **Excel · Word · ODS · ODT · MS Project** | ✓ |
 | Tuxia (IA) con tu propia clave | ✓ |
@@ -55,16 +55,6 @@ o con Liberapay desde el extranjero.
 
 El aporte es **voluntario y no desbloquea nada**, porque no hay nada
 bloqueado. Quien no aporte usa exactamente el mismo programa.
-
-## Historial de licencia
-
-- Hasta la **2.8.8**: software libre GPL-3.0-or-later.
-- **2.9.0**: se publicó como software propietario, con un modelo de funciones
-  gratuitas más licencia de pago.
-- Desde la **3.0**: software libre GPL-3.0-or-later otra vez, y de forma
-  definitiva. El modelo de licencias de la 2.9.0 quedó sin efecto y las
-  claves dejaron de ser necesarias: al actualizar, todas las funciones
-  quedan disponibles.
 
 ## Sin garantía
 

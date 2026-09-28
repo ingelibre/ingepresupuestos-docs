@@ -2,7 +2,7 @@
 
 Bienvenido al manual de usuario de **IngePresupuestos**, el software libre de presupuestos de obra: multiplataforma, offline y de formato abierto.
 
-Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provecho: desde instalarlo y crear tu primer proyecto, hasta importar tus presupuestos de S10, Delphin o PowerCost, elaborar análisis de costos unitarios, programar la obra con un Gantt, **controlar la ejecución de la obra** y generar tus reportes.
+Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provecho: desde instalarlo y crear tu primer proyecto, hasta importar tus presupuestos en `.prs`, `.sqlite` o `.bak`, elaborar análisis de costos unitarios, programar la obra con un Gantt, **controlar la ejecución de la obra** y generar tus reportes.
 
 !!! tip "¿Primera vez con IngePresupuestos?"
     Empieza por **[Instalación](primeros-pasos/instalacion.md)** y luego **[Tu primer proyecto](primeros-pasos/primer-proyecto.md)**.
@@ -23,7 +23,7 @@ Aquí encontrarás, paso a paso y con capturas, cómo sacarle el máximo provech
 
     ---
 
-    Trae tus presupuestos desde S10, Delphin o PowerCost (también sus Excel), IFC o una base `.db`, y tus precios de insumos desde Excel.
+    Trae tus presupuestos en `.prs`, `.sqlite`, `.bak` o Excel, modelos IFC o una base `.db`, y tus precios de insumos desde Excel.
 
     [:octicons-arrow-right-24: Ver importadores](importar/index.md)
 
